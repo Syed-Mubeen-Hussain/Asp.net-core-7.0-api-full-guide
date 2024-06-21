@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\My data\IIS Deployment\MyCoreApi</_PublishTargetUrl>
+    <History>True|2024-06-20T10:33:02.8128814Z||;True|2024-06-20T03:21:22.3956957-07:00||;True|2024-06-20T02:50:53.6654548-07:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Export\\Customer.xlsx",
+      "PackagePath": "staticwebassets\\Export\\Customer.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\001\\001.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\001\\001.png"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\112\\112Car-Station-Home-page-hero-2_result.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\112\\112Car-Station-Home-page-hero-2_result.jpg"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\112\\112images.jfif",
+      "PackagePath": "staticwebassets\\Upload\\Product\\112\\112images.jfif"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\112\\112pngtree-car-sports-car-transportation-png-image_5320963.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\112\\112pngtree-car-sports-car-transportation-png-image_5320963.png"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\135\\135formFile",
+      "PackagePath": "staticwebassets\\Upload\\Product\\135"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\135\\135pngtree-car-sports-car-transportation-png-image_5320963.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\135\\135pngtree-car-sports-car-transportation-png-image_5320963.png"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\222\\222Car-Station-Home-page-hero-2_result.jpg",
+      "PackagePath": "staticwebassets\\Upload\\Product\\222\\222Car-Station-Home-page-hero-2_result.jpg"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\234\\234formFile",
+      "PackagePath": "staticwebassets\\Upload\\Product\\234"
+    },
+    {
+      "Id": "C:\\Users\\out2sol\\Desktop\\LearnApi\\LearnApi\\LearnApi\\wwwroot\\Upload\\Product\\313\\313formFile",
+      "PackagePath": "staticwebassets\\Upload\\Product\\313"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LearnApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LearnApi.props",
+      "PackagePath": "build\\LearnApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LearnApi.props",
+      "PackagePath": "buildMultiTargeting\\LearnApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LearnApi.props",
+      "PackagePath": "buildTransitive\\LearnApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
